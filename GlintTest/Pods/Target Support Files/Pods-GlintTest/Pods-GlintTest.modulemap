@@ -1,0 +1,6 @@
+framework module Pods_GlintTest {
+  umbrella header "Pods-GlintTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
